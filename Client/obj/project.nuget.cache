@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Ah6DhlfMBPownvhv6OAYhrsRBeAMO2EzMDjVxM1dtRFE6ZUkuEglBPHgi2jYloN8FD/fcjHDzvaU7sbTD8CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serus\\source\\repos\\RPI-Led-Strip-GRPC-Controller\\Client\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serus\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\grpc.core.api\\2.48.0\\grpc.core.api.2.48.0.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\grpc.net.client\\2.48.0\\grpc.net.client.2.48.0.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\grpc.net.common\\2.48.0\\grpc.net.common.2.48.0.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\grpc.tools\\2.48.0\\grpc.tools.2.48.0.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\serus\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

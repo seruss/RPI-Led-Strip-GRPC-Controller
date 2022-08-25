@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "WS2812BServer";
+
+import "google/protobuf/empty.proto";
+
+package greet;
+
+service LedHandler {
+  rpc StartStream (stream LedRequest) returns (google.protobuf.Empty);
+}
+
+message LedRequest {
+  repeated LedInfo leds = 1;
+}
+
+message LedInfo {
+  int32 id = 1;
+  int32 argb = 2;
+}
